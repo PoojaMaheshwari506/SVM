@@ -1,0 +1,6 @@
+Sample,Best Accuracy,Best SVM Parameters
+S1,0.9253333333333333,"{'kernel': 'rbf', 'C': 6.352631578947369, 'gamma': 'auto'}"
+S2,0.93,"{'kernel': 'rbf', 'C': 8.436842105263159, 'gamma': 'auto'}"
+S3,0.9433333333333334,"{'kernel': 'rbf', 'C': 4.268421052631579, 'gamma': 'auto'}"
+S4,0.922,"{'kernel': 'rbf', 'C': 10.0, 'gamma': 'scale'}"
+S5,0.9413333333333334,"{'kernel': 'rbf', 'C': 2.18421052631579, 'gamma': 'auto'}"
